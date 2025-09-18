@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: /assets/pdf/resume/resume.pdf
+permalink: /assets/pdf/resume/jtresume.pdf
 title: cv
 nav: true
 nav_order: 5
