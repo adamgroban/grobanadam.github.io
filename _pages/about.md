@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <strong>University of Colorado Boulder</strong> • <strong>2024 Boettcher Scholar</strong>
+subtitle: <strong>Honors Mechanical Engineering Student</strong> • <strong>University of Colorado Boulder</strong>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image:
   image_circular: false # crops the image to make it circular
   # more_info: >
   # <p>555 your office number</p>
@@ -27,10 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an honors Computer Science and Economics student at the University of Colorado Boulder. Within the Computer Science department, I am the Head of Academics for the CS Undergraduate Advising Committee (CSUAC). Additionally, I am apart of the Blockchain club and an active participant in casual rock climbing.
+I am an Honors Mechanical Engineering Student at the University of Colorado Boulder. On top of my major, I am also pursuing minors in Engineering Management and Engineering Entrepreneurship. Outside of my academics, I am a Powertrain Engineer for the CU Formula SAE team, as well as an active member within the Engineering Honors Program.
 
-As of August 2025, I finished my third summer at Alamosa School District working in the information technology department. Within my role, I managed the repairs, inventorying (via Incident IQ), and cloning (via the FOG Project and Chrome's FlexOS) of over 3000 laptops and desktops that support 2100+ students and 440+ staff members.
+I have become passionate about CAD modeling, and how it can be applied in industry. I have signifigant experience using applications such as SOLIDWORKS and OnShape to design mechanical parts. I also have mastery of engineering drawing techniques, as well as Bill of Material implementation. I have used this skill to design not only part files, but also fully-mated assemblies ready for manufacture.
 
-I am currently exploring topics at the intersection of theory and systems. I have particularly enjoyed learning about blockchain technologies, Linux-based development, and algorithmic economics, and I am interested in how formal models and real-world infrastructure can inform each other.
+In addition, I have several years of applied coding experience in languages such as Python, Java, MATLAB, JavaScript, and LaTeX. I have leveraged this coding background within my role as a co-founder for Declassify.ai, a student-made and run website designed to improve course registration at the university using an AI agent. I was responsible for front-end UI development for the website, as well as driving all seed funding and investor pitch meetings.
 
-Outside of school, I run my own clothing store via Depop (and sometimes eBay) which you can check out <a href="https://depop.com/imbrock">@imbrock</a>.
+I am interested in applying this CAD knowledge and coding background within the engineering industry to automate processes and design required subsystems. As I move towards the workforce, I aim to apply these skills within an organization that can help me design and build these systems per industry standards.
